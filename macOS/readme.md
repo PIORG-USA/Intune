@@ -9,7 +9,7 @@ This script is intended for customers who need to deploy Teams via the Intune Sc
 ## Quick Run
 
 ```
-sudo /bin/bash -c "$(curl -fsSL https://github.com/PIORG-USA/Intune/blob/main/macOS/installTeams.sh](https://raw.githubusercontent.com/PIORG-USA/Intune/b382336ab0829ca32970171a55c562d105a8b722/macOS/installTeams.sh)"
+sudo /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/PIORG-USA/Intune/b382336ab0829ca32970171a55c562d105a8b722/macOS/installTeams.sh)"
 ```
 
 ## Script Settings
