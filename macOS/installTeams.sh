@@ -19,7 +19,7 @@
 
 # User Defined variables
 weburl="https://go.microsoft.com/fwlink/?linkid=869428"   # What is the Azure Blob Storage URL?
-appname="Microsoft Teams"                                               # The name of our App deployment script (also used for Octory monitor)
+appname="MicrosoftTeams"                                               # The name of our App deployment script (also used for Octory monitor)
 app="Microsoft Teams.app"                                               # The actual name of our App once installed
 logandmetadir="/Library/Logs/Microsoft/IntuneScripts/installTeams"      # The location of our logs and last updated data
 processpath="/Applications/Microsoft Teams.app/Contents/MacOS/Teams"    # The process name of the App we are installing
